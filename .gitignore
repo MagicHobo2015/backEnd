@@ -1,0 +1,5 @@
+# we dont want all this on github
+node_modules
+
+# credentials
+.env
